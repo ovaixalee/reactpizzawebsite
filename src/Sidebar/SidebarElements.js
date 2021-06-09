@@ -11,7 +11,7 @@ export const SidebarContainer = styled.aside`
  display: grid;
  align-items: center;
  top: 0;
- transition: 0ms.3s ease-in-out;
+ transition: 0.3s ease-in-out;
  right: ${({isOpen}) => (isOpen ? '0' : '-1000px')};
 
  @media screen and (max-width: 400px){
