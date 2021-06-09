@@ -1,5 +1,4 @@
-import React, { useState } from 'react'
-import { FaToggleOff } from 'react-icons/fa';
+import React from 'react'
 import {SidebarContainer, Icon, CloseIcon, SidebarMenu, 
     SidebarLink, SideBtnWrap,SidebarRoute} 
 from './SidebarElements';

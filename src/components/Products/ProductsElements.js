@@ -58,7 +58,7 @@ export const ProductBtn = styled.button`
 
  &:hover{
      background: #ffc500;
-     transition: 0.2s ease-out;
+     transform: translateY(-.5rem) scale(1.02);
      cursor: pointer;
      color: #000;
  }
